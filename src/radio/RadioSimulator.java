@@ -18,7 +18,7 @@ public class RadioSimulator {
         //Midterm is today
         //watch it
         //God keeps my head above the water
-        
+        //Cause i keep diging
         Radio radio = new Radio();
         VoiceRecognizer vr = new VoiceRecognizer(radio);
         radio.switchOn();
