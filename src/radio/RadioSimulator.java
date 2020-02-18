@@ -16,6 +16,8 @@ public class RadioSimulator {
     public static void main(String[] args)
     {
         //watch it
+        //God keeps my head above the water
+        
         Radio radio = new Radio();
         VoiceRecognizer vr = new VoiceRecognizer(radio);
         radio.switchOn();
